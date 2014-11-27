@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/kevin/workspace/logger/.provision/roles/index/tasks'
+let g:netrw_dirhist_2='/home/kevin/.devilspie'
+let g:netrw_dirhist_3='/home/kevin/workspace/logger/.provision/roles/lvs_lb/templates'
+let g:netrw_dirhist_4='/home/kevin/workspace/logger/.provision/roles/lvs_rs/templates'
+let g:netrw_dirhist_5='/home/kevin/workspace/logger/.provision/roles/jdk/tasks'

@@ -1,0 +1,11 @@
+"hg7127
+
+loadplugins '\.(js|penta)$'
+group user
+set hintkeys=fjdkslaghrueiwovncm
+style -name=tabbrowser-height-fix chrome://* [dactyl-australis=true] .tabbrowser-tabs {
+    \  max-height: unset!important;
+    \}
+    \EOM EOM
+
+" vim: set ft=pentadactyl:
